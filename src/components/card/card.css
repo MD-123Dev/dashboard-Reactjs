@@ -1,0 +1,15 @@
+.card-sty{
+    width:120px;
+    margin-top:15px;
+}
+
+.sty-icon{
+    position:absolute;
+    right:0px;
+    top:25px;
+}
+
+.sty-numb{
+    margin-left: 18px;
+    margin-top:15px;
+}

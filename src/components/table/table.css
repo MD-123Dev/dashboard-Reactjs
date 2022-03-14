@@ -1,0 +1,35 @@
+.sty-img-tab{
+   vertical-align: middle;
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+   margin-right: 15px;
+}
+
+.sty-middle{
+    display: inline-block;
+   border:2px black;
+   color:black;
+   background-color: gold;
+   text-align: center;
+   font-size: 18px;
+   border-left: 0px;
+}
+
+.sty-good{
+  display: inline-block;
+     border:2px black;
+     color:black;
+     background-color: rgb(3, 115, 207);
+      text-align: center;
+      font-size: 18px;
+}
+
+.sty-bad{
+    display: inline-block;
+    border:2px black;
+    color:black;
+    background-color: rgb(248, 7, 7);
+     text-align: center;
+     font-size: 18px;
+}

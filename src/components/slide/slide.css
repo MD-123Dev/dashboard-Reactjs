@@ -1,0 +1,76 @@
+/*menu*/
+
+.styl-li {
+
+    border-top: 1px solid rgb(223, 219, 219);
+    border-bottom: 1px solid rgb(223, 219, 219);
+    height: 45px;
+
+
+}
+
+.silde-menu-style {
+    background-color: rgb(239, 243, 243);
+    width: 250px;
+    height: 1252px;
+    position: absolute;
+    z-index: 1;
+    top: 71px;
+    left: 0;
+}
+
+ul {
+    list-style-type: none;
+  
+
+}
+
+.sty-a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(88, 141, 78);
+
+    font-size: 18px
+}
+
+.sty-a:hover {
+    text-decoration: none;
+    color: rgb(88, 141, 78);
+    font-weight: bold;
+}
+
+.sty-fa {
+    margin-right: 15px;
+    font-size: 20px;
+    color: rgb(14, 99, 121);
+}
+
+.sty-dashbord {
+    text-decoration: none;
+    color: rgb(248, 248, 248);
+    font-size: 20px
+}
+
+.sty-img {
+    vertical-align: middle;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.styl-dash {
+    border-top: 2px solid rgb(223, 219, 219);
+    border-bottom: 2px solid rgb(223, 219, 219);
+    height: 52px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.sty-ab {
+    text-decoration: none;
+    color: rgb(88, 141, 78);
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 18px;
+
+}
